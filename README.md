@@ -20,7 +20,7 @@ import Heatmap  from 'react-heatmap-component'
     }
     <Heatmap
         imgUrl={imgUrl}
-        dataPoint={dataPoint}
+        dataPoints={dataPoints}
         height={height}
         width={width}
     />
