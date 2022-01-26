@@ -2,7 +2,7 @@
 A react component version of `heatmap.js`
 ## Usage
 The component only needs four parameters, data point, image url, image width and height, and an optional config Object. You can refer to
-[`heatmap.js documentation`](http://www.patrick-wied.at/static/heatmapjs)) for more details
+[`heatmap.js documentation`](http://www.patrick-wied.at/static/heatmapjs) for more details
 ```js
 import Heatmap  from 'react-heatmap-component'
     const dataPoints = {

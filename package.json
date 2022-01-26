@@ -2,10 +2,19 @@
   "name": "react-heatmap-component",
   "version": "0.0.1",
   "author": "reddevi1s",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedDevi1s/react-heatmap-component"
+  },  
+  "keywords": [
+    "react",
+    "heatmap",
+    "heatmap.js"
+  ],
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && tsc -p tsconfig.build.json",
-    "preview": "vite preview"
+    "build": "vite build && tsc -p tsconfig.build.json"
   },
   "files": [
     "lib/dist"
