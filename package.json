@@ -1,11 +1,11 @@
 {
   "name": "react-heatmap-component",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "reddevi1s",
   "repository": {
     "type": "git",
     "url": "https://github.com/RedDevi1s/react-heatmap-component"
-  },  
+  },
   "keywords": [
     "react",
     "heatmap",
